@@ -46,18 +46,20 @@ The project includes a Streamlit web application that allows users to enter SMS 
 
 ---
 
-## Folder Structure 
+## 📂 Project Structure
 
+```text
 sms-spam-detector/
 │
 ├── README.md
-├──emailSpamDetection.ipynb
+├── emailSpamDetection.ipynb
 ├── app.py
 ├── spam_model.pkl
 ├── tfidf.pkl
 ├── home.png
 ├── spam.png
 └── ham.png
+```
 
 ---
 
