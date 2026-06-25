@@ -30,24 +30,6 @@ The project includes a Streamlit web application that allows users to enter SMS 
 
 ---
 
-## 📂 Project Structure
-
-sms-spam-detector/
-
-├── app.py
-
-├── spam_model.pkl
-
-├── tfidf.pkl
-
-├── spam.csv
-
-├── mailSpamDetecotor.ipny
-
-└── README.md
-
----
-
 ## 🔄 Workflow
 
 1. Load SMS Dataset
@@ -94,15 +76,15 @@ Ham ✅
 
 ### Home Page
 
-![Home Page](images/home.png)
+![Home Page](home.png)
 
 ### Spam Prediction
 
-![Spam Prediction](images/spam_prediction.png)
+![Spam Prediction](spam.png)
 
 ### Ham Prediction
 
-![Ham Prediction](images/ham_prediction.png)
+![Ham Prediction](ham.png)
 
 ---
 
@@ -111,4 +93,4 @@ Ham ✅
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sms-spam-detector.git
+git clone [https://github.com/your-username/sms-spam-detector](http://github.com/sugandhi15/emailSpamDetector.git
