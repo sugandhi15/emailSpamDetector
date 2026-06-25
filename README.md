@@ -108,4 +108,4 @@ Ham ✅
 Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/sms-spam-detector](http://github.com/sugandhi15/emailSpamDetector.git
+git clone http://github.com/sugandhi15/emailSpamDetector.git
